@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Alexandre Simas Maciel! 👋
+## AI Builder | Tech Lead 
 
-<!--
-**alexandremaciel-ai/alexandremaciel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Builder** with over 8 years of experience in technical leadership and software development, focused on creating robust Artificial Intelligence and automation solutions. I enjoy building complex systems from scratch with clean code, prioritizing high performance and scalable architectures for real-world products.
 
-Here are some ideas to get you started:
+### 📦 Notable Projects & Repositories
+- **`openclaw-dashboard-v2`**: Real-time AI agent orchestration dashboard. Connects to OpenClaw Gateway via WebSocket RPC to monitor agent sessions, manage cron jobs, run a Kanban board, and chat live with your AI agents. Works fully offline with mock data.
+- **`tradingview-mcp-self-learning`**: Personal AI assistant for your TradingView Desktop charts. Now with a self-learning second brain. Adds a structured wiki system inspired by Andrej Karpathy's LLM Wiki pattern where the LLM writes and maintains the knowledge base automatically.
+- **Prompt Forge**: PromptForge is an application that transforms raw knowledge (structured and unstructured documents) into final operational artifacts, automating the entire Prompt Engineering pipeline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently exploring**: Harness Engineering, Context Engineering, and autonomous agent development (Agno).
+- 👯 **Looking to collaborate on**: Cutting-edge AI tools, innovative SaaS platforms, and advanced Full-Stack architectures.
+- 😄 **My interests**: Cryptocurrency technical analysis and trading (BTC & ETH), AutoSearch and AI Builder.
+- 💬 **Ask me about**: Next.js, FastAPI, Python, TypeScript, Tailwind CSS, and building high-end interfaces using shadcn/ui.
+- 📫 **How to reach me**: https://www.linkedin.com/in/alexandresimasmaciel
+- 🌍 **Location**: Florianópolis, SC, Brazil.
+- ⚡ **Important note**: For international roles and collaborations, please note that I am not fluent in spoken English; my communication is exclusively text-based.
+
+<br>
+
+### 🛠️ My Favorite Tools
+
+**👨‍💻 Programming Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**🧰 Frameworks & Libraries**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**💻 Engineering & Architecture**
+* Context Engineering & Harness Engineering
+* AI Agents (Agno)
+* Clean Code & System Design
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandremaciel-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremaciel-ai&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
