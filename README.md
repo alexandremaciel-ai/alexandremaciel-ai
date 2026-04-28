@@ -11,7 +11,7 @@ I'm an **AI Builder** with over 10 years of experience in technical leadership a
 - 🌱 **Currently exploring**: Harness Engineering, Context Engineering, and autonomous agent development (Agno).
 - 👯 **Looking to collaborate on**: Cutting-edge AI tools, innovative SaaS platforms, and advanced Full-Stack architectures.
 - 😄 **My interests**: Cryptocurrency technical analysis and trading (BTC & ETH), AutoSearch and AI Builder.
-- 💬 **Ask me about**: Next.js, FastAPI, Python, PHP, TypeScript, Tailwind CSS, and building high-end interfaces using shadcn/ui.
+- 💬 **Ask me about**: Next.js, FastAPI, Python, PHP, Node.js, TypeScript, Tailwind CSS, and building high-end interfaces using shadcn/ui.
 - 📫 **How to reach me**: https://www.linkedin.com/in/alexandresimasmaciel
 - 🌍 **Location**: Florianópolis, SC, Brazil.
 
