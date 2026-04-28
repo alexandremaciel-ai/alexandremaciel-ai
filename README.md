@@ -14,7 +14,6 @@ I'm an **AI Builder** with over 10 years of experience in technical leadership a
 - 💬 **Ask me about**: Next.js, FastAPI, Python, TypeScript, Tailwind CSS, and building high-end interfaces using shadcn/ui.
 - 📫 **How to reach me**: https://www.linkedin.com/in/alexandresimasmaciel
 - 🌍 **Location**: Florianópolis, SC, Brazil.
-- ⚡ **Important note**: For international roles and collaborations, please note that I am not fluent in spoken English; my communication is exclusively text-based.
 
 <br>
 
