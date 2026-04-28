@@ -33,7 +33,7 @@ I'm an **AI Builder** with over 10 years of experience in technical leadership a
 
 **💻 Engineering & Architecture**
 * Context Engineering & Harness Engineering
-* AI Agents (Agno)
+* AI Agents
 * Clean Code & System Design
 
 <br>
