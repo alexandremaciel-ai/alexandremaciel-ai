@@ -1,7 +1,7 @@
 # Hi, I'm Alexandre Simas Maciel! 👋
 ## AI Builder | Tech Lead 
 
-I'm an **AI Builder** with over 8 years of experience in technical leadership and software development, focused on creating robust Artificial Intelligence and automation solutions. I enjoy building complex systems from scratch with clean code, prioritizing high performance and scalable architectures for real-world products.
+I'm an **AI Builder** with over 10 years of experience in technical leadership and software development, focused on creating robust Artificial Intelligence and automation solutions. I enjoy building complex systems from scratch with clean code, prioritizing high performance and scalable architectures for real-world products.
 
 ### 📦 Notable Projects & Repositories
 - **`openclaw-dashboard-v2`**: Real-time AI agent orchestration dashboard. Connects to OpenClaw Gateway via WebSocket RPC to monitor agent sessions, manage cron jobs, run a Kanban board, and chat live with your AI agents. Works fully offline with mock data.
