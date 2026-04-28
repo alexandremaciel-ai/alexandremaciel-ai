@@ -34,6 +34,8 @@ I'm an **AI Builder** with over 10 years of experience in technical leadership a
 **💻 Engineering & Architecture**
 * Context Engineering & Harness Engineering
 * AI Agents
+* OpenClaw
+* Hermes Agent
 * Clean Code & System Design
 
 <br>
